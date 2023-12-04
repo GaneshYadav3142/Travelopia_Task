@@ -37,11 +37,11 @@ To run the app locally, follow these steps:
 
 ### Webpage
 
-![Webage](./utils/webpage.jpg)
+![Webpage](./utils/webpage.jpg)
 
 ### Mobile Page
 
-![Mobile Page](./utils//mobilePage.jpg)
+![Mobile Page](./utils/mobilePage.jpg)
 
 
 ## App Functionality
@@ -50,7 +50,7 @@ To run the app locally, follow these steps:
 
 2. Website page in which all tha content is as shown:
 
-![Webage](./utils/webpage.jpg)
+![Webpage](./utils/webpage.jpg)
 
 3. There is toggle option available for the Mobile Screen for Conent Hiding:
 
