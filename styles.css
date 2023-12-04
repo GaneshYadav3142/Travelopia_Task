@@ -257,12 +257,24 @@ body {
       
 
       @media only screen and (max-width: 700px) {
+
+
+        #image-div{
+            width: 30%;
+            
+          }
+          
+          #image-div img {
+            width: 75%;
+            
+          }
         #options-div {
             display: none; 
         }
 
         #hamburger {
             display: block;
+            color: teal;
         }
 
         #hamburger,#icons-div div:nth-child(1),#icons-div div:nth-child(2),#icons-div div:nth-child(4){
