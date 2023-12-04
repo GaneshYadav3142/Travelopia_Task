@@ -48,7 +48,7 @@ To run the app locally, follow these steps:
 
 1. These app is Fully Responsive to all Screens available:
 
-2. Website page in which all tha contetn is shown:
+2. Website page in which all tha content is as shown:
 
 ![Webage](./utils/webpage.jpg)
 
