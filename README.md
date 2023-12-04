@@ -41,7 +41,7 @@ To run the app locally, follow these steps:
 
 ### Mobile Page
 
-![Mobile Page](./utils/mobilepage.jpg)
+![Mobile Page](./utils//mobilePage.jpg)
 
 
 ## App Functionality
@@ -54,7 +54,7 @@ To run the app locally, follow these steps:
 
 3. There is toggle option available for the Mobile Screen for Conent Hiding:
 
-![Mobile Page](./utils/mobilepage.jpg)
+![Mobile Page](./utils/mobilePage.jpg)
 
 4. These App have the Jest Test case Written:
 
