@@ -384,5 +384,9 @@ body {
     #main-body > div > h1{
       font-size: 25px
     }
+      
+    #main-body > div > p{
+      font-size: small
+    }
 
     }
