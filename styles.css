@@ -278,7 +278,7 @@ body {
         }
 
         #hamburger,#icons-div div:nth-child(1),#icons-div div:nth-child(2),#icons-div div:nth-child(4){
-            font-size: 25px;
+            font-size: 20px;
         }
 
         #number,#britain-logo,#button {
@@ -296,8 +296,10 @@ body {
            width: 100%;
             display: flex;
             justify-content: center;
-            align-items: center;
+            /* align-items: center; */
             border: 1px solid grey ;
+            height: 3vh;
+            padding: 10px 10px;
         }
     
         #icons-div {
@@ -316,8 +318,10 @@ body {
             justify-content: space-between;
             align-items: center;
             margin: auto;
-            height:   10vh;;
+            height:   8vh;;
         }
+
+        
     
         #second-div {
             display: flex;
@@ -335,7 +339,7 @@ body {
              align-items: center;
              flex-direction: column;
              width: 90%;
-             margin: 5% auto; 
+             margin:  auto; 
            }
 
            #main-body > div{
@@ -346,7 +350,7 @@ body {
 
           #header_image{
             /* border: 1px solid black; */
-            height: 40vh;
+            height: 35vh;
             width: 100%;
             background-image: url('https://res.cloudinary.com/enchanting/q_80,f_auto,c_lfill,w_1400,h_400,g_auto/exodus-web/2022/07/armenia-2.jpg');
             background-size: cover;
@@ -358,9 +362,11 @@ body {
             
           
           }
+
+          
           
     #header_image > div{
-        margin-top: 100px;
+        margin-top: 60px;
         border-radius: 5px;
         text-align: center;
         padding: 10px;
@@ -368,7 +374,15 @@ body {
         backdrop-filter: blur(10px);
         color: white;
         width: 80%;
-        height: 40%;
+        height: 50%;
+    }
+
+    #header_image > div > p{
+        font-size: small;
+    }
+
+    #main-body > div > h1{
+      font-size: 25px
     }
 
     }
