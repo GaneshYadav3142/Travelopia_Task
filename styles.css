@@ -175,7 +175,7 @@ body {
         display: flex;
         justify-content: space-between;
         width: 90%;
-        margin: 5% auto; 
+        margin:  2% auto; 
       }
       
       #main-body > div:first-child {
